@@ -1,0 +1,602 @@
+{
+   "restaurant": {
+      "html_attributions" : [],
+      "results" : [
+         {
+            "geometry" : {
+               "location" : {
+                  "lat" : -33.870775,
+                  "lng" : 151.199025
+               }
+            },
+            "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "name" : "Restaurant 1",
+            "opening_hours" : {
+               "open_now" : true
+            },
+            "photos" : [
+               {
+                  "height" : 270,
+                  "html_attributions" : [],
+                  "photo_reference" : "Ref-1",
+                  "width" : 519
+               }
+            ],
+            "place_id" : "id-1",
+            "reference" : "id-1",
+            "types" : [ "travel_agency", "restaurant", "food", "establishment" ],
+            "vicinity" : "Pyrmont Bay Wharf Darling Dr, Sydney"
+         },
+         {
+            "geometry" : {
+               "location" : {
+                  "lat" : -33.866891,
+                  "lng" : 151.200814
+               }
+            },
+            "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "name" : "Restaurant 2",
+            "photos" : [
+               {
+                  "height" : 426,
+                  "html_attributions" : [],
+                  "photo_reference" : "Ref-2",
+                  "width" : 640
+               }
+            ],
+            "place_id" : "id-2",
+            "reference" : "ChIJqwS6fjiuEmsRJAMiOY9MSms",
+            "types" : [ "restaurant", "food", "establishment" ],
+            "vicinity" : "Australia"
+         },
+         {
+            "geometry" : {
+               "location" : {
+                  "lat" : -33.870943,
+                  "lng" : 151.190311
+               }
+            },
+            "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "name" : "Restaurant 3",
+            "opening_hours" : {
+               "open_now" : true
+            },
+            "photos" : [
+               {
+                  "height" : 600,
+                  "html_attributions" : [],
+                  "photo_reference" : "Ref-3",
+                  "width" : 800
+               }
+            ],
+            "place_id" : "id-3",
+            "reference" : "ChIJLfySpTOuEmsRsc_JfJtljdc",
+            "types" : [ "restaurant", "food", "establishment" ],
+            "vicinity" : "37 Bank St, Pyrmont"
+         },
+         {
+            "geometry" : {
+               "location" : {
+                  "lat" : -33.867591,
+                  "lng" : 151.201196
+               }
+            },
+            "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "name" : "Reataurant 4",
+            "opening_hours" : {
+               "open_now" : true
+            },
+            "photos" : [
+               {
+                  "height" : 242,
+                  "html_attributions" : [],
+                  "photo_reference" : "Ref-4",
+                  "width" : 200
+               }
+            ],
+            "place_id" : "id-4",
+            "reference" : "ChIJrTLr-GyuEmsRBfy61i59si0",
+            "types" : [ "travel_agency", "restaurant", "food", "establishment" ],
+            "vicinity" : "32 The Promenade, King Street Wharf 5, Sydney"
+         },
+         {
+            "geometry" : {
+               "location" : {
+                  "lat" : -33.870775,
+                  "lng" : 151.199025
+               }
+            },
+            "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "name" : "Restaurant 5",
+            "opening_hours" : {
+               "open_now" : true
+            },
+            "photos" : [
+               {
+                  "height" : 270,
+                  "html_attributions" : [],
+                  "photo_reference" : "Ref-5",
+                  "width" : 519
+               }
+            ],
+            "place_id" : "id-5",
+            "reference" : "ChIJyWEHuEmuEmsRm9hTkapTCrk",
+            "types" : [ "travel_agency", "restaurant", "food", "establishment" ],
+            "vicinity" : "Pyrmont Bay Wharf Darling Dr, Sydney"
+         },
+         {
+            "geometry" : {
+               "location" : {
+                  "lat" : -33.866891,
+                  "lng" : 151.200814
+               }
+            },
+            "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "name" : "Restaurant 6",
+            "photos" : [
+               {
+                  "height" : 426,
+                  "html_attributions" : [],
+                  "photo_reference" : "Ref-6",
+                  "width" : 640
+               }
+            ],
+            "place_id" : "id-6",
+            "reference" : "ChIJqwS6fjiuEmsRJAMiOY9MSms",
+            "types" : [ "restaurant", "food", "establishment" ],
+            "vicinity" : "Australia"
+         },
+         {
+            "geometry" : {
+               "location" : {
+                  "lat" : -33.870943,
+                  "lng" : 151.190311
+               }
+            },
+            "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "name" : "Restaurant 7",
+            "opening_hours" : {
+               "open_now" : true
+            },
+            "photos" : [
+               {
+                  "height" : 600,
+                  "html_attributions" : [],
+                  "photo_reference" : "Ref-7",
+                  "width" : 800
+               }
+            ],
+            "place_id" : "id-7",
+            "reference" : "ChIJLfySpTOuEmsRsc_JfJtljdc",
+            "types" : [ "restaurant", "food", "establishment" ],
+            "vicinity" : "37 Bank St, Pyrmont"
+         },
+         {
+            "geometry" : {
+               "location" : {
+                  "lat" : -33.867591,
+                  "lng" : 151.201196
+               }
+            },
+            "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "name" : "Reataurant 8",
+            "opening_hours" : {
+               "open_now" : true
+            },
+            "photos" : [
+               {
+                  "height" : 242,
+                  "html_attributions" : [],
+                  "photo_reference" : "Ref-8",
+                  "width" : 200
+               }
+            ],
+            "place_id" : "id-8",
+            "reference" : "ChIJrTLr-GyuEmsRBfy61i59si0",
+            "types" : [ "travel_agency", "restaurant", "food", "establishment" ],
+            "vicinity" : "32 The Promenade, King Street Wharf 5, Sydney"
+         }
+      ],
+      "status" : "OK"
+   },
+   "lodging": {
+      "html_attributions" : [],
+      "results" : [
+         {
+            "geometry" : {
+               "location" : {
+                  "lat" : -33.870775,
+                  "lng" : 151.199025
+               }
+            },
+            "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "name" : "Hotel 1",
+            "opening_hours" : {
+               "open_now" : true
+            },
+            "photos" : [
+               {
+                  "height" : 270,
+                  "html_attributions" : [],
+                  "photo_reference" : "Ref-9",
+                  "width" : 519
+               }
+            ],
+            "place_id" : "id-9",
+            "reference" : "ChIJyWEHuEmuEmsRm9hTkapTCrk",
+            "types" : [ "travel_agency", "restaurant", "food", "establishment" ],
+            "vicinity" : "Pyrmont Bay Wharf Darling Dr, Sydney"
+         },
+         {
+            "geometry" : {
+               "location" : {
+                  "lat" : -33.866891,
+                  "lng" : 151.200814
+               }
+            },
+            "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "name" : "Hotel 2",
+            "photos" : [
+               {
+                  "height" : 426,
+                  "html_attributions" : [],
+                  "photo_reference" : "Ref-10",
+                  "width" : 640
+               }
+            ],
+            "place_id" : "id-10",
+            "reference" : "ChIJqwS6fjiuEmsRJAMiOY9MSms",
+            "types" : [ "restaurant", "food", "establishment" ],
+            "vicinity" : "Australia"
+         },
+         {
+            "geometry" : {
+               "location" : {
+                  "lat" : -33.870943,
+                  "lng" : 151.190311
+               }
+            },
+            "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "name" : "Hotel 3",
+            "opening_hours" : {
+               "open_now" : true
+            },
+            "photos" : [
+               {
+                  "height" : 600,
+                  "html_attributions" : [],
+                  "photo_reference" : "Ref-11",
+                  "width" : 800
+               }
+            ],
+            "place_id" : "id-11",
+            "reference" : "ChIJLfySpTOuEmsRsc_JfJtljdc",
+            "types" : [ "restaurant", "food", "establishment" ],
+            "vicinity" : "37 Bank St, Pyrmont"
+         },
+         {
+            "geometry" : {
+               "location" : {
+                  "lat" : -33.867591,
+                  "lng" : 151.201196
+               }
+            },
+            "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "name" : "Hotel 4",
+            "opening_hours" : {
+               "open_now" : true
+            },
+            "photos" : [
+               {
+                  "height" : 242,
+                  "html_attributions" : [],
+                  "photo_reference" : "Ref-12",
+                  "width" : 200
+               }
+            ],
+            "place_id" : "id-12",
+            "reference" : "ChIJrTLr-GyuEmsRBfy61i59si0",
+            "types" : [ "travel_agency", "restaurant", "food", "establishment" ],
+            "vicinity" : "32 The Promenade, King Street Wharf 5, Sydney"
+         },
+         {
+            "geometry" : {
+               "location" : {
+                  "lat" : -33.870775,
+                  "lng" : 151.199025
+               }
+            },
+            "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "name" : "Hotel 5",
+            "opening_hours" : {
+               "open_now" : true
+            },
+            "photos" : [
+               {
+                  "height" : 270,
+                  "html_attributions" : [],
+                  "photo_reference" : "Ref-13",
+                  "width" : 519
+               }
+            ],
+            "place_id" : "id-13",
+            "reference" : "ChIJyWEHuEmuEmsRm9hTkapTCrk",
+            "types" : [ "travel_agency", "restaurant", "food", "establishment" ],
+            "vicinity" : "Pyrmont Bay Wharf Darling Dr, Sydney"
+         },
+         {
+            "geometry" : {
+               "location" : {
+                  "lat" : -33.866891,
+                  "lng" : 151.200814
+               }
+            },
+            "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "name" : "Hotel 6",
+            "photos" : [
+               {
+                  "height" : 426,
+                  "html_attributions" : [],
+                  "photo_reference" : "Ref-14",
+                  "width" : 640
+               }
+            ],
+            "place_id" : "id-14",
+            "reference" : "ChIJqwS6fjiuEmsRJAMiOY9MSms",
+            "types" : [ "restaurant", "food", "establishment" ],
+            "vicinity" : "Australia"
+         },
+         {
+            "geometry" : {
+               "location" : {
+                  "lat" : -33.870943,
+                  "lng" : 151.190311
+               }
+            },
+            "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "name" : "Hotel 7",
+            "opening_hours" : {
+               "open_now" : true
+            },
+            "photos" : [
+               {
+                  "height" : 600,
+                  "html_attributions" : [],
+                  "photo_reference" : "Ref-15",
+                  "width" : 800
+               }
+            ],
+            "place_id" : "id-15",
+            "reference" : "ChIJLfySpTOuEmsRsc_JfJtljdc",
+            "types" : [ "restaurant", "food", "establishment" ],
+            "vicinity" : "37 Bank St, Pyrmont"
+         },
+         {
+            "geometry" : {
+               "location" : {
+                  "lat" : -33.867591,
+                  "lng" : 151.201196
+               }
+            },
+            "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "name" : "Hotel 8",
+            "opening_hours" : {
+               "open_now" : true
+            },
+            "photos" : [
+               {
+                  "height" : 242,
+                  "html_attributions" : [],
+                  "photo_reference" : "Ref-16",
+                  "width" : 200
+               }
+            ],
+            "place_id" : "id-16",
+            "reference" : "ChIJrTLr-GyuEmsRBfy61i59si0",
+            "types" : [ "travel_agency", "restaurant", "food", "establishment" ],
+            "vicinity" : "32 The Promenade, King Street Wharf 5, Sydney"
+         }
+      ],
+      "status" : "OK"
+   },
+   "gym": {
+      "html_attributions" : [],
+      "results" : [
+         {
+            "geometry" : {
+               "location" : {
+                  "lat" : -33.870775,
+                  "lng" : 151.199025
+               }
+            },
+            "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "name" : "Gym 1",
+            "opening_hours" : {
+               "open_now" : true
+            },
+            "photos" : [
+               {
+                  "height" : 270,
+                  "html_attributions" : [],
+                  "photo_reference" : "Ref-17",
+                  "width" : 519
+               }
+            ],
+            "place_id" : "id-17",
+            "reference" : "ChIJyWEHuEmuEmsRm9hTkapTCrk",
+            "types" : [ "travel_agency", "restaurant", "food", "establishment" ],
+            "vicinity" : "Pyrmont Bay Wharf Darling Dr, Sydney"
+         },
+         {
+            "geometry" : {
+               "location" : {
+                  "lat" : -33.866891,
+                  "lng" : 151.200814
+               }
+            },
+            "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "name" : "Gym 2",
+            "photos" : [
+               {
+                  "height" : 426,
+                  "html_attributions" : [],
+                  "photo_reference" : "Ref-18",
+                  "width" : 640
+               }
+            ],
+            "place_id" : "id-18",
+            "reference" : "ChIJqwS6fjiuEmsRJAMiOY9MSms",
+            "types" : [ "restaurant", "food", "establishment" ],
+            "vicinity" : "Australia"
+         },
+         {
+            "geometry" : {
+               "location" : {
+                  "lat" : -33.870943,
+                  "lng" : 151.190311
+               }
+            },
+            "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "name" : "Gym 3",
+            "opening_hours" : {
+               "open_now" : true
+            },
+            "photos" : [
+               {
+                  "height" : 600,
+                  "html_attributions" : [],
+                  "photo_reference" : "Ref-19",
+                  "width" : 800
+               }
+            ],
+            "place_id" : "id-19",
+            "reference" : "ChIJLfySpTOuEmsRsc_JfJtljdc",
+            "types" : [ "restaurant", "food", "establishment" ],
+            "vicinity" : "37 Bank St, Pyrmont"
+         },
+         {
+            "geometry" : {
+               "location" : {
+                  "lat" : -33.867591,
+                  "lng" : 151.201196
+               }
+            },
+            "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "name" : "Gym 4",
+            "opening_hours" : {
+               "open_now" : true
+            },
+            "photos" : [
+               {
+                  "height" : 242,
+                  "html_attributions" : [],
+                  "photo_reference" : "Ref-20",
+                  "width" : 200
+               }
+            ],
+            "place_id" : "id-20",
+            "reference" : "ChIJrTLr-GyuEmsRBfy61i59si0",
+            "types" : [ "travel_agency", "restaurant", "food", "establishment" ],
+            "vicinity" : "32 The Promenade, King Street Wharf 5, Sydney"
+         },
+         {
+            "geometry" : {
+               "location" : {
+                  "lat" : -33.870775,
+                  "lng" : 151.199025
+               }
+            },
+            "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "name" : "Gym 6",
+            "opening_hours" : {
+               "open_now" : true
+            },
+            "photos" : [
+               {
+                  "height" : 270,
+                  "html_attributions" : [],
+                  "photo_reference" : "Ref-21",
+                  "width" : 519
+               }
+            ],
+            "place_id" : "id-21",
+            "reference" : "ChIJyWEHuEmuEmsRm9hTkapTCrk",
+            "types" : [ "travel_agency", "restaurant", "food", "establishment" ],
+            "vicinity" : "Pyrmont Bay Wharf Darling Dr, Sydney"
+         },
+         {
+            "geometry" : {
+               "location" : {
+                  "lat" : -33.866891,
+                  "lng" : 151.200814
+               }
+            },
+            "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "name" : "Gym 6",
+            "photos" : [
+               {
+                  "height" : 426,
+                  "html_attributions" : [],
+                  "photo_reference" : "Ref-22",
+                  "width" : 640
+               }
+            ],
+            "place_id" : "id-22",
+            "reference" : "ChIJqwS6fjiuEmsRJAMiOY9MSms",
+            "types" : [ "restaurant", "food", "establishment" ],
+            "vicinity" : "Australia"
+         },
+         {
+            "geometry" : {
+               "location" : {
+                  "lat" : -33.870943,
+                  "lng" : 151.190311
+               }
+            },
+            "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+            "name" : "Gym 7",
+            "opening_hours" : {
+               "open_now" : true
+            },
+            "photos" : [
+               {
+                  "height" : 600,
+                  "html_attributions" : [],
+                  "photo_reference" : "Ref-23",
+                  "width" : 800
+               }
+            ],
+            "place_id" : "id-23",
+            "reference" : "ChIJLfySpTOuEmsRsc_JfJtljdc",
+            "types" : [ "restaurant", "food", "establishment" ],
+            "vicinity" : "37 Bank St, Pyrmont"
+         },
+         {
+            "geometry" : {
+               "location" : {
+                  "lat" : -33.867591,
+                  "lng" : 151.201196
+               }
+            },
+            "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/travel_agent-71.png",
+            "name" : "Gym 8",
+            "opening_hours" : {
+               "open_now" : true
+            },
+            "photos" : [
+               {
+                  "height" : 242,
+                  "html_attributions" : [],
+                  "photo_reference" : "Ref-24",
+                  "width" : 200
+               }
+            ],
+            "place_id" : "id-24",
+            "reference" : "ChIJrTLr-GyuEmsRBfy61i59si0",
+            "types" : [ "travel_agency", "restaurant", "food", "establishment" ],
+            "vicinity" : "32 The Promenade, King Street Wharf 5, Sydney"
+         }
+      ],
+      "status" : "OK"
+   }
+}

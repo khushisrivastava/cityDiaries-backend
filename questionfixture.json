@@ -1,0 +1,226 @@
+[
+    {
+        "model": "core.question",
+        "pk": 1,
+        "fields": {
+            "type": "restaurant",
+            "question": "Staff Hygiene"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 2,
+        "fields": {
+            "type": "restaurant",
+            "question": "Social Distance Kept"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 3,
+        "fields": {
+            "type": "restaurant",
+            "question": "Easy to order (e.g. QR code, online menu)"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 4,
+        "fields": {
+            "type": "restaurant",
+            "question": "Sufficient hand sanitizer stations"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 5,
+        "fields": {
+            "type": "restaurant",
+            "question": "Signage and floor markings"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 6,
+        "fields": {
+            "type": "restaurant",
+            "question": "Controlled access to toilets"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 7,
+        "fields": {
+            "type": "restaurant",
+            "question": "Overall cleanliness"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 8,
+        "fields": {
+            "type": "restaurant",
+            "question": "Overall feel"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 9,
+        "fields": {
+            "type": "restaurant",
+            "question": "Overall rating for food"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 10,
+        "fields": {
+            "type": "restaurant",
+            "question": "Overall rating for service"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 11,
+        "fields": {
+            "type": "restaurant",
+            "question": "Overall rating for value for money"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 12,
+        "fields": {
+            "type": "lodging",
+            "question": "Staff Hygiene"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 13,
+        "fields": {
+            "type": "lodging",
+            "question": "Social Distance Kept"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 14,
+        "fields": {
+            "type": "lodging",
+            "question": "Overall Cleanliness"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 15,
+        "fields": {
+            "type": "lodging",
+            "question": "Sufficient hand sanitizer stations in communal areas"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 16,
+        "fields": {
+            "type": "lodging",
+            "question": "Overall feel"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 17,
+        "fields": {
+            "type": "lodging",
+            "question": "Communal areas cleaned regularly"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 18,
+        "fields": {
+            "type": "lodging",
+            "question": "Contact-less check in and out"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 19,
+        "fields": {
+            "type": "lodging",
+            "question": "Overall rating for service"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 20,
+        "fields": {
+            "type": "lodging",
+            "question": "Overall rating for value for money"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 21,
+        "fields": {
+            "type": "gym",
+            "question": "Regular cleaning of equipment"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 22,
+        "fields": {
+            "type": "gym",
+            "question": "Social Distance Kept"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 23,
+        "fields": {
+            "type": "gym",
+            "question": "Sufficient hand sanitizer stations in communal areas"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 24,
+        "fields": {
+            "type": "gym",
+            "question": "Signage and floor markings"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 25,
+        "fields": {
+            "type": "gym",
+            "question": "Controlled access to toilets"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 26,
+        "fields": {
+            "type": "gym",
+            "question": "Controlled number of people in the gym at any one time"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 27,
+        "fields": {
+            "type": "gym",
+            "question": "Clear guidance on Covid19 regulations upon arrival"
+        }
+    },
+    {
+        "model": "core.question",
+        "pk": 28,
+        "fields": {
+            "type": "gym",
+            "question": "Overall feel \u2013 scale of how safe it is to visit"
+        }
+    }
+]
