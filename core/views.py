@@ -27,8 +27,8 @@ def fetch_or_create_place(data):
     for x in fields:
         if x not in data:
             raise Exception(f"Missing {x}")
-        if data[x] == None:
-            data.pop(x)
+        # if data[x] == None:
+            # data.pop(x)
     
     query = Place.objects.filter(place_id=data['place_id'])
     if query:
