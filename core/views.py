@@ -135,17 +135,17 @@ class GoogleMaps(viewsets.ViewSet):
                 else:
                     response_data['result']['is_favourite'] = False
             
-                review = Review.objects.filter(place__place_id=place_id).only('review', 'place__type')
+            review = Review.objects.filter(place__place_id=place_id).only('review', 'place__type')
+            
+            if review.count() == 0:
+                response_data['result']['avg_ratings'] = None
+            else:
+                questions = Question.objects.filter(type=review.first().place.type).values_list('id', flat=True)
                 
-                if review.count() == 0:
-                    response_data['result']['avg_ratings'] = None
-                else:
-                    questions = Question.objects.filter(type=review.first().place.type).values_list('id', flat=True)
-                    
-                    response_data['result']['avg_ratings'] = {}
-                    
-                    for question in questions:
-                        response_data['result']['avg_ratings'][question] = review.annotate(rating_value=Cast(KeyTextTransform("q" + str(question), 'review'), FloatField())).aggregate(Avg('rating_value'))['rating_value__avg']
+                response_data['result']['avg_ratings'] = {}
+                
+                for question in questions:
+                    response_data['result']['avg_ratings'][question] = review.annotate(rating_value=Cast(KeyTextTransform("q" + str(question), 'review'), FloatField())).aggregate(Avg('rating_value'))['rating_value__avg']
                 
         else:
             response_data = {
