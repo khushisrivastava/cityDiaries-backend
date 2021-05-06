@@ -223,6 +223,8 @@ class PlaceViewSet(viewsets.ModelViewSet):
     @action(methods=['POST'], detail=False)
     def toggle_fav(self, request):
         try:
+            if request.data['rating'] == 0.0:
+                request.data['rating'] = None
             place = fetch_or_create_place(request.data)
             if place in request.user.fav_places.all():
                 request.user.fav_places.remove(place)
