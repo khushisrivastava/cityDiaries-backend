@@ -135,7 +135,7 @@ class GoogleMaps(viewsets.ViewSet):
                 else:
                     response_data['result']['is_favourite'] = False
             
-                review = Review.objects.filter(place__place_id=place_id, user=request.user).only('review', 'place__type')
+                review = Review.objects.filter(place__place_id=place_id).only('review', 'place__type')
                 
                 if review.count() == 0:
                     response_data['result']['avg_ratings'] = None
